@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\PracticeUsingClasses\PracticeUsingClasses\bin\Debug\PracticeUsingClasses.exe.config
+C:\Users\WeCanCodeIT\documents\visual studio 2015\Projects\PracticeUsingClasses\PracticeUsingClasses\bin\Debug\PracticeUsingClasses.exe
+C:\Users\WeCanCodeIT\documents\visual studio 2015\Projects\PracticeUsingClasses\PracticeUsingClasses\bin\Debug\PracticeUsingClasses.pdb
+C:\Users\WeCanCodeIT\documents\visual studio 2015\Projects\PracticeUsingClasses\PracticeUsingClasses\obj\Debug\PracticeUsingClasses.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\documents\visual studio 2015\Projects\PracticeUsingClasses\PracticeUsingClasses\obj\Debug\PracticeUsingClasses.exe
+C:\Users\WeCanCodeIT\documents\visual studio 2015\Projects\PracticeUsingClasses\PracticeUsingClasses\obj\Debug\PracticeUsingClasses.pdb
